@@ -1,0 +1,21 @@
+{
+    "main":{
+        "name" :"Fajar Indah Nur Azizah",
+        "description": "I am a programmer",
+        "image": "profileepic.jpg",
+        "github": "https://github.com/FajarIndahNA",
+        "project": "https://github.com/FajarIndahNA",
+        "bio": "Saya lulusan Universitas Muhammadiyah Surakarta. Jurusan Teknik Informatika dengan peminatan Rekayasa Perangkat Lunak. Telah mengembangkan 2 sistem informasi berbasis website untuk UMKM dan instansi KEMENSOS.",
+        "contactmessage":"Here is where you should write your message",
+        "email":"fajarindah285@gmail.com",
+        "phone":"087730576869",
+        "address":{
+             "street":"Masaran",
+             "city":"Sragen",
+             "state":"Central Java",
+             "zip":"57282"
+        },
+        "resumedownload":"https://github.com/FajarIndahNA"
+
+    }
+}
