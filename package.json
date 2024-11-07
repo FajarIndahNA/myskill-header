@@ -13,7 +13,8 @@
     "particles-bg": "^2.5.5",
     "jquery": "^3.6.0",
     "react-ga": "^3.3.0",
-    "react-awesome-reveal": "^4.1.0"
+    "react-awesome-reveal": "^4.1.0",
+    "react-zmage":"^0.8.5-beta.36"
   },
   "scripts": {
     "start": "react-scripts start",
