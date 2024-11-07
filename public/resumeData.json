@@ -15,7 +15,34 @@
              "state":"Central Java",
              "zip":"57282"
         },
-        "resumedownload":"https://github.com/FajarIndahNA"
+        "resumedownload":"https://github.com/FajarIndahNA",
+        "social":[
+            {
+                "name": "facebook",
+                "url": "https://github.com/FajarIndahNA",
+                "className" : "fa fa-facebook"
+            },
+            {
+                "name":"twitter",
+                "url": "http://twitter.com",
+                "className" : "fa fa-twitter"
+            },
+            {
+                "name":"linkedin",
+                "url":"https://www.linkedin.com/in/fajarindahnurazizah/",
+                "className":"fa fa-linkedin"
+              },
+              {
+                "name":"instagram",
+                "url":"http://instagram.com/arindaajr",
+                "className":"fa fa-instagram"
+              },
+              {
+                "name":"github",
+                "url":"https://github.com/FajarIndahNA",
+                "className":"fa fa-github"
+              }
+        ]
 
     },
     

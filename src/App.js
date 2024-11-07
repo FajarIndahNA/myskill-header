@@ -8,7 +8,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Resume from "./components/Resume";
 import Portofolio from "./components/Portofolio";
-// import Footer from "./components/Footer";
+import Footer from "./components/Footer";
 
 // function App() {
 //   return (
@@ -61,7 +61,7 @@ class App extends Component{
         <Resume data={this.state.resumeData.resume}/>
         <Portofolio data={this.state.resumeData.portofolio}/>
         <Contact data={this.state.resumeData.main}/>
-        {/* <Footer data={this.state.resumeData.main}/> */}
+        <Footer data={this.state.resumeData.main}/>
       </div>
     )
   }
