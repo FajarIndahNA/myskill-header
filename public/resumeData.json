@@ -17,5 +17,67 @@
         },
         "resumedownload":"https://github.com/FajarIndahNA"
 
+    },
+    
+    "resume" : {
+        "skillmessage":"Saya mengambil peminatan Rekayasa Perangkat Lunak, sehingga sudah familiar tentang pengembangan software, baik itu mobile ataupun website. Berikut keahlian saya :",
+        "education":[
+            {
+                "school":"Universitas Muhammadiyah Surakarta",
+                "degree":"Bachelor degree of informatics engineering",
+                "graduated":"Juli 2024",
+                "description":"Tugas akhir :'Sistem Informasi Kasir Berbasis Web Menggunakan Framework Laravel.'"
+            },
+            {
+                "school":"SMA Trensains Muhammadiyah Sragen",
+                "degree":"IPA",
+                "graduated":"Mei 2020",
+                "description":"Pengurus Ikatan Pelajar Muhammadiyah Ranting SMA Trensains, Pengurus kesenian Tapak Suci Putera Muhammadiya SMA Trensains Muhammadiyah Sragen"
+            }
+        ],
+        "work":[
+            {
+                "company":"Sentra Terpadu Prof Dr. Soeharso Surakarta",
+                "title":"Intern Data dan Informasi Serta Pelayanan Publik",
+                "years":"Maret-April 2023",
+                "description" :"Membuat website buku tamu."
+            },
+            {
+                "company":"Muktamar Muhammadiyah dan Aisyiyah 48",
+                "title":"Laision officier SALAMU Wilayah Sulawesi",
+                "years":"Januari-November 2022",
+                "description" :"Sebagai informan dan membawahi tamu sebanyak 16 orang dari PDA Sulawesi"
+            }
+        ],
+        "skills" :[
+            {
+                "name" : "Java",
+                "level" : "80%"
+            },
+            {
+                "name" : "Phyton",
+                "level" : "45%"
+            },
+            {
+                "name" : "React.Js",
+                "level" : "50%"
+            },
+            {
+                "name" : "PHP",
+                "level" : "80%"
+            },
+            {
+                "name" : "Laravel",
+                "level" : "80%"
+            },
+            {
+                "name" : "CSS",
+                "level" : "90%"
+            },
+            {
+                "name" : "MySQL",
+                "level" : "80%"
+            }
+        ]
     }
 }
